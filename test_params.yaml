@@ -1,0 +1,15 @@
+test_param_1:
+  description: just 1 another test parameter
+  flags: 0
+  type: int32
+  value: 54655
+test_param_2:
+  description: just 2 another test parameter
+  flags: 0
+  type: string
+  value: Strhghhkh
+test_param_3:
+  description: just 3 another test parameter
+  flags: 0
+  type: float32
+  value: 456.989990234375
